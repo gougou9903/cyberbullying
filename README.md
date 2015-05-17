@@ -9,3 +9,7 @@ Definition of a victim: The individual that is the target of aggression/insult/h
 Definition of defenders: Individuals with posts that dislike the cyberbullying and defend the victim from the perpetrators of aggression/insults/harassment. The goal of the defender is to help the victim who is being cyberbullied, even with usage of offensive words by attacking the perpetrators.
 Definition of a follower: Individuals that take an active part in cyberaggression or cyberbullying but do not start the cyberaggression or cyberbullying.
 
+### how to use
+- wintersmith build
+- wintersmith preview
+- available at http://localhost:8080/cyberbullying/
